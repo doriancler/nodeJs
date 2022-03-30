@@ -1,6 +1,6 @@
 # nodeJs
 ## mise en place du projet 
-Une fois un projet cloné faire la commande : <br>
+Une fois le projet cloné faire la commande : <br>
 `npm install` <br><br>
 Il faut soit créer une base de données nommée `user` ou soit modifier le nom dans le `manifest.js` à la ligne `database: 'user'`<br><br>
 Lancer le serveur : <br>
